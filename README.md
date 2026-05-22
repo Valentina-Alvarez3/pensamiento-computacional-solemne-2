@@ -60,6 +60,6 @@ El resultado es una **composición generativa dinámica**:
 ![diagrama](Diagrama de Flujo Mandala Interactiva p5.js.png)
 --
 ### ADJUNTO LINKS P%.JS
--https://editor.p5js.org/vale.alvarez/full/62TjzOZqo
+-[https://editor.p5js.org/vale.alvarez/full/62TjzOZqo]
 
--<iframe src="https://editor.p5js.org/vale.alvarez/full/62TjzOZqo"></iframe>
+-[<iframe src="https://editor.p5js.org/vale.alvarez/full/62TjzOZqo"></iframe>]
