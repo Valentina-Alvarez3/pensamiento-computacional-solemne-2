@@ -57,4 +57,9 @@ El resultado es una **composición generativa dinámica**:
 *   **Vibración cromática:** El color del relleno varía dinámicamente según el movimiento horizontal.
 *   **Comportamiento reactivo:** Las partículas muestran una conducta de "huida" ante el cursor, creando una sensación de organismo vivo.
 ```
-![image alt](https://github.com/Valentina-Alvarez3/pensamiento-computacional-solemne-2/blob/cbcb39478e0c04084128adbf28248f62ccca5031/Diagrama%20de%20Flujo%20Mandala%20Interactiva%20p5.js.png)
+![diagrama](Diagrama de Flujo Mandala Interactiva p5.js.png)
+--
+### ADJUNTO LINKS P%.JS
+-https://editor.p5js.org/vale.alvarez/full/62TjzOZqo
+
+-<iframe src="https://editor.p5js.org/vale.alvarez/full/62TjzOZqo"></iframe>
