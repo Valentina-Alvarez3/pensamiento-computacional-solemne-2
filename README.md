@@ -21,7 +21,11 @@ Este proyecto dialoga principalmente con el **Arte Cinético** y el **Op Art (Ar
 
 ### Listado de referentes
 *   **Victor Vasarely:** Por su uso de estructuras geométricas repetitivas que generan vibración visual y profundidad a través de la variación de formas (círculos a cuadrados), similar a la lógica aplicada en los anillos del mandala.
+*   <img width="501" height="650" alt="9zzi_Vasarely_estampe_mars246" src="https://github.com/user-attachments/assets/1b8c23ef-3c22-4ee6-a0b1-20f0e8e6691a" />
+
 *   **Julio Le Parc:** Como referente del arte cinético, influye en la búsqueda de un sistema que requiere del espectador (input) para completar su ciclo de movimiento y transformación visual.
+*   <img width="3600" height="3600" alt="le parc" src="https://github.com/user-attachments/assets/a0015cb8-43a2-42f6-a3e3-8561c318c160" />
+
 *   **Diseño Generativo:** Se utiliza como base metodológica para traducir reglas de diseño (como la simetría radial) en algoritmos computacionales.
 *   
 ### Principio de diseño explorado
@@ -58,16 +62,20 @@ El resultado es una **composición generativa dinámica**:
 *   **Vibración cromática:** El color del relleno varía dinámicamente según el movimiento horizontal.
 *   **Comportamiento reactivo:** Las partículas muestran una conducta de "huida" ante el cursor, creando una sensación de organismo vivo.
 
+#DIAGRAMA VISUAL
+
+
+
+  <img width="800" height="2000" alt="Diagrama de Flujo Mandala Interactiva p5 js (1)" src="https://github.com/user-attachments/assets/34069518-0823-40be-b4ed-79995eb82321" />
 
 
 
 
-      img width="800" height="2000" alt="Diagrama de Flujo Mandala Interactiva p5 js (1)" src="https://github.com/user-attachments/assets/34069518-0823-40be-b4ed-79995eb82321" />
+Este diagrama ha sido creado con canva https://canva.link/or9q2zaxsvpm25f
 
-
-
-
-
-### ADJUNTO LINKS P%.JS
+### ADJUNTO LINKS P5.JS
 https://editor.p5js.org/vale.alvarez/full/62TjzOZqo
-https://editor.p5js.org/vale.alvarez/full/62TjzOZqo
+
+https://editor.p5js.org/vale.alvarez/sketches/62TjzOZqo
+
+y agrego codigo de p5.js
