@@ -1,3 +1,4 @@
+<img width="800" height="2000" alt="Diagrama de Flujo Mandala Interactiva p5 js (1)" src="https://github.com/user-attachments/assets/34069518-0823-40be-b4ed-79995eb82321" />
 # Pensamiento-computacional-solemne-2
 Proceso de p5js de sistema interactivo
 
@@ -57,7 +58,8 @@ El resultado es una **composición generativa dinámica**:
 *   **Vibración cromática:** El color del relleno varía dinámicamente según el movimiento horizontal.
 *   **Comportamiento reactivo:** Las partículas muestran una conducta de "huida" ante el cursor, creando una sensación de organismo vivo.
 ```
-![diagrama](Diagrama de Flujo Mandala Interactiva p5.js.png)
+![diagrama](Diagrama de Flujo Mandala Interactiva p5.js.png) (<img width="800" height="2000" alt="Diagrama de Flujo Mandala Interactiva p5 js (1)" src="https://github.com/user-attachments/assets/261643bb-e9a8-445e-9637-9e9621d8ea8a" />)
+
 --
 ### ADJUNTO LINKS P%.JS
 -[https://editor.p5js.org/vale.alvarez/full/62TjzOZqo]
