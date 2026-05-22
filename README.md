@@ -3,7 +3,7 @@
 Proceso de p5js de sistema interactivo
 
 # OP ART "MANDALA"
-**Autor/a:** [Valentina Alvarez Rojas]
+**Autora:** Valentina Alvarez Rojas
 
 ---
 
@@ -21,13 +21,13 @@ Este proyecto dialoga principalmente con el **Arte Cinético** y el **Op Art (Ar
 
 ### Listado de referentes
 *   **Victor Vasarely:** Por su uso de estructuras geométricas repetitivas que generan vibración visual y profundidad a través de la variación de formas (círculos a cuadrados), similar a la lógica aplicada en los anillos del mandala.
-*   <img width="501" height="650" alt="9zzi_Vasarely_estampe_mars246" src="https://github.com/user-attachments/assets/1b8c23ef-3c22-4ee6-a0b1-20f0e8e6691a" />
+    <img width="501" height="650" alt="9zzi_Vasarely_estampe_mars246" src="https://github.com/user-attachments/assets/1b8c23ef-3c22-4ee6-a0b1-20f0e8e6691a" />
 
 *   **Julio Le Parc:** Como referente del arte cinético, influye en la búsqueda de un sistema que requiere del espectador (input) para completar su ciclo de movimiento y transformación visual.
-*   <img width="3600" height="3600" alt="le parc" src="https://github.com/user-attachments/assets/a0015cb8-43a2-42f6-a3e3-8561c318c160" />
+    <img width="3600" height="3600" alt="le parc" src="https://github.com/user-attachments/assets/a0015cb8-43a2-42f6-a3e3-8561c318c160" />
 
 *   **Diseño Generativo:** Se utiliza como base metodológica para traducir reglas de diseño (como la simetría radial) en algoritmos computacionales.
-*   
+    
 ### Principio de diseño explorado
 El principio de diseño fundamental es el **Ritmo y la Simetría Radial**. El sistema utiliza bucles anidados para distribuir elementos de forma equitativa alrededor de un eje central, pero rompe esa monotonía mediante la **variación y el contraste** (cambio de formas y colores dinámicos) cuando el sistema detecta la interacción del usuario.
 
@@ -62,7 +62,7 @@ El resultado es una **composición generativa dinámica**:
 *   **Vibración cromática:** El color del relleno varía dinámicamente según el movimiento horizontal.
 *   **Comportamiento reactivo:** Las partículas muestran una conducta de "huida" ante el cursor, creando una sensación de organismo vivo.
 
-#DIAGRAMA VISUAL
+## Diagrama de flujo
 
 
 
@@ -80,3 +80,15 @@ https://editor.p5js.org/vale.alvarez/sketches/62TjzOZqo
 
 y agrego codigo de p5.js
 ![sketch.js](https://github.com/Valentina-Alvarez3/pensamiento-computacional-solemne-2/blob/119f226cf63309a10a0494a7cabd2d5c56b75581/sketch.js)
+
+---
+## 4. Reflexión Final
+
+El desarrollo de este proyecto permitió comprender que la programación en el contexto del diseño no se trata únicamente de generar formas atractivas, sino de **construir sistemas lógicos que reaccionan** al entorno. La transición desde una idea estática hacia una composición dinámica mediada por el **input, procesamiento y output** fue el eje central del aprendizaje.
+
+### Aprendizajes clave:
+* **Traducción del referente:** El desafío no fue imitar la estética de Vasarely o Le Parc, sino **traducir sus lógicas de movimiento y vibración visual** a través de estructuras de control como bucles y condicionales.
+* **El orden vs. el caos:** Lograr que el mandala mantuviera su simetría radial mientras las partículas interactuaban de forma volátil permitió explorar la **tensión visual** de manera algorítmica.
+
+Este ejercicio reafirma que el **pensamiento computacional** es una capacidad crítica para el diseño contemporáneo, permitiendo que el espectador deje de ser un observador pasivo y se convierta en un agente activo que altera el equilibrio de la obra es decir que interactua directamente con la obra craeda.
+
