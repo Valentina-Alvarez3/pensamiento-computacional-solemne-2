@@ -57,9 +57,17 @@ El resultado es una **composición generativa dinámica**:
 *   **Transformación morfológica:** El mandala cambia su complejidad y forma estructural en tiempo real.
 *   **Vibración cromática:** El color del relleno varía dinámicamente según el movimiento horizontal.
 *   **Comportamiento reactivo:** Las partículas muestran una conducta de "huida" ante el cursor, creando una sensación de organismo vivo.
-```
-<img width="800" height="2000" alt="Diagrama de Flujo Mandala Interactiva p5 js (1)" src="https://github.com/user-attachments/assets/34069518-0823-40be-b4ed-79995eb82321" />
---
+
+
+
+
+
+      img width="800" height="2000" alt="Diagrama de Flujo Mandala Interactiva p5 js (1)" src="https://github.com/user-attachments/assets/34069518-0823-40be-b4ed-79995eb82321" />
+
+
+
+
+
 ### ADJUNTO LINKS P%.JS
 https://editor.p5js.org/vale.alvarez/full/62TjzOZqo
 https://editor.p5js.org/vale.alvarez/full/62TjzOZqo
