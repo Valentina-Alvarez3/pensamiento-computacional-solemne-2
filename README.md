@@ -79,4 +79,4 @@ https://editor.p5js.org/vale.alvarez/full/62TjzOZqo
 https://editor.p5js.org/vale.alvarez/sketches/62TjzOZqo
 
 y agrego codigo de p5.js
-![codigo]sketch.js
+![sketch.js](https://github.com/Valentina-Alvarez3/pensamiento-computacional-solemne-2/blob/119f226cf63309a10a0494a7cabd2d5c56b75581/sketch.js)
